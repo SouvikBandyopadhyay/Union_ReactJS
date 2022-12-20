@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Union_ReactJS/static/css/main.63f2fcde.css",
+    "main.js": "/Union_ReactJS/static/js/main.592c5d6c.js",
+    "static/js/787.e68c2660.chunk.js": "/Union_ReactJS/static/js/787.e68c2660.chunk.js",
+    "index.html": "/Union_ReactJS/index.html",
+    "main.63f2fcde.css.map": "/Union_ReactJS/static/css/main.63f2fcde.css.map",
+    "main.592c5d6c.js.map": "/Union_ReactJS/static/js/main.592c5d6c.js.map",
+    "787.e68c2660.chunk.js.map": "/Union_ReactJS/static/js/787.e68c2660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f2fcde.css",
+    "static/js/main.592c5d6c.js"
+  ]
+}
