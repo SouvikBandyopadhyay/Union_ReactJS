@@ -1,75 +1,31 @@
 {
     "Members":[
         {
-            "ID":1,
-            "Name":"Souvik",
-            "Desg":"Games Secratary",
-            "Year":"4th",
-            "Email":"ri@rr.co",
+            "Name":"Sahil Parvej",
+            "Desg":"General Secratary",
+            "Email":"xxx@xxx.xxx",
+            "phno":99999999,
             "Image":"https://drive.google.com/file/d/1w11N82vfpPa9LSL1w_AZd87bZWi-bbvy/view"
         },
         {
-            "ID":2,
-            "Name":"rizo",
-            "Desg":"Genaral Secratary",
-            "Year":"4th",
-            "Email":"sou@rr.co",
+            "Name":"Jahir Hasan",
+            "Desg":"Treasurey",
+            "phno":99999999,
+            "Email":"xxx@xx.xx",
             "Image":"https://drive.google.com/file/d/19TaEtdMh9pcoLeFvoqo2W-DQsIn9yR8n/view?usp=sharing"
         },
         {
-            "ID":3,
-            "Name":"kar",
+            "Name":"Ali Ujjaman",
             "Desg":"Games Secratary",
-            "Year":"5th",
+            "phno":99999999,
             "Email":"kk@rr.co",
             "Image":"https://drive.google.com/file/d/1w11N82vfpPa9LSL1w_AZd87bZWi-bbvy/view"
         },
         {
-            "ID":4,
-            "Name":"Souvik",
+            "Name":"Sayan Majhi",
             "Desg":"Electric Secratary",
-            "Year":"4th",
+            "phno":99999999,
             "Email":"ri@rr.co",
-            "Image":"https://drive.google.com/file/d/1w11N82vfpPa9LSL1w_AZd87bZWi-bbvy/view"
-        },
-        {
-            "ID":5,
-            "Name":"rizo",
-            "Desg":"Games Secratary",
-            "Year":"4th",
-            "Email":"sou@rr.co",
-            "Image":"https://drive.google.com/file/d/19TaEtdMh9pcoLeFvoqo2W-DQsIn9yR8n/view?usp=sharing"
-        },
-        {
-            "ID":6,
-            "Name":"kar",
-            "Desg":"Hostel Secratary",
-            "Year":"5th",
-            "Email":"kk@rr.co",
-            "Image":"https://drive.google.com/file/d/1w11N82vfpPa9LSL1w_AZd87bZWi-bbvy/view"
-        },
-        {
-            "ID":7,
-            "Name":"Souvik",
-            "Desg":"Hostel Secratary",
-            "Year":"4th",
-            "Email":"ri@rr.co",
-            "Image":"https://drive.google.com/file/d/1w11N82vfpPa9LSL1w_AZd87bZWi-bbvy/view"
-        },
-        {
-            "ID":8,
-            "Name":"rizo",
-            "Desg":"Hostel Secratary",
-            "Year":"4th",
-            "Email":"sou@rr.co",
-            "Image":"https://drive.google.com/file/d/19TaEtdMh9pcoLeFvoqo2W-DQsIn9yR8n/view?usp=sharing"
-        },
-        {
-            "ID":9,
-            "Name":"kar",
-            "Desg":"Games Secratary",
-            "Year":"5th",
-            "Email":"kk@rr.co",
             "Image":"https://drive.google.com/file/d/1w11N82vfpPa9LSL1w_AZd87bZWi-bbvy/view"
         }
 

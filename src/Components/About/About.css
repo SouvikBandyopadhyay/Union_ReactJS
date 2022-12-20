@@ -1,0 +1,16 @@
+.about_body{
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    justify-content: space-evenly;
+    padding: 2rem;
+}
+@media only screen and (max-width: 768px){
+    .about_body{
+        display: flex;
+        flex-direction: column;
+        gap: 4rem;
+        justify-content: space-evenly;
+        padding: 2rem;
+    }
+}

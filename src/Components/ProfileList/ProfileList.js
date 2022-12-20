@@ -10,7 +10,7 @@ console.log(userData)
 
     return ( 
         <div>
-            <h1>Profiles</h1>
+            <h1>Union Members</h1>
             <div className="users">
                 {userData.map((user) => (
                     <SmallProfile profiledata={user}/>

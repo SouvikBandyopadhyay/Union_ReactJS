@@ -1,0 +1,24 @@
+.member_profile_img{
+    width: 100px;
+    height: 100px;
+}
+.users{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-evenly;
+}
+.One_Profile{
+    background-color: rgba(240, 244, 255, 0.2);
+    padding: 1rem;
+}
+.member_name{
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 768px){
+    .users{
+        gap: 1rem;
+    }
+}

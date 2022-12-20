@@ -1,11 +1,12 @@
 import './App.css';
 import {useEffect, useState} from 'react';
-import Profile from './Components/MainProfile/Profile';
 import Home from './Components/Home/Home';
-import Sponsor from './Components/Sponsor/Sponsor';
+import About from './Components/About/About';
 import Navbar from './Components/Navbar/Navbar';
 import ProfileList from './Components/ProfileList/ProfileList';
 import Footer from './Components/Footer/Footer';
+import Events from './Components/Events/Events';
+import Logos from './Components/Logos/Logos';
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
  
@@ -18,14 +19,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <Logos></Logos>
       <Navbar></Navbar>
         <Routes>
-        
-        <Route exact path="/Union_ReactJS" element={<Home/>}/>
         <Route exact path="/" element={<Home/>}/>
-        <Route path="/sponsor" element={<Sponsor/>}/>
+        <Route path="/about" element={<About/>}/>
         <Route path="/membersarea" element={<ProfileList/>}/>
-        <Route path="/profile" element={<Profile id={id}/>}/>
+        <Route path="/events" element={<Events/>}/>
         </Routes>
       <Footer></Footer>
       </header>

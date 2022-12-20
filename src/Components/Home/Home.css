@@ -1,0 +1,31 @@
+
+.main_logo > img{
+    width: 200px;
+    height: 200px;
+}
+
+
+.main_title {
+	font-family: "Cairo";
+	text-align: center;
+	color: #FFF;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 20vh;
+	letter-spacing: 1px;
+	line-height:2
+}
+
+.main_title > h1 {
+	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+	background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	font-size: 300%;
+    font-weight: 900;
+	margin: 10px 0;
+}

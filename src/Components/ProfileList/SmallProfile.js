@@ -3,12 +3,14 @@ import styles from "./SmallProfile.css";
 const SmallProfile = (props) => {
 
     const data=props.profiledata;
-    console.log(data);
+
     return ( 
-        <div>
-            <Image className={styles.img} src={data.Image}></Image>
-            <p>{data.Name}</p>
+        <div className="One_Profile">
+            <Image className="member_profile_img" src={data.Image}></Image>
+            <p className="member_name">{data.Name}</p>
             <p>{data.Desg}</p>
+            <p>Ph. No.: {data.phno}</p>
+            <p>Email: {data.Email}</p>
         </div>
      );
 }

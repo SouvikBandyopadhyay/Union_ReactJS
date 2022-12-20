@@ -1,0 +1,35 @@
+.Events{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.DayEvents{
+    background-color: rgba(242, 240, 255, 0.2);
+    padding: 1rem;
+}
+.event_name{
+    background-color: rgba(0, 0, 0, 0.461);
+    padding: 0.5rem;
+    border: 2px white solid;
+}
+.event_name:hover{
+    box-shadow: 5px 5px 5px black;
+}
+.events_perday_list{ 
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 768px){
+
+    .DayEvents{
+        padding: 0.1rem;
+    }
+    .events_perday_list{ 
+        gap: 0.2rem;
+    }
+    
+}

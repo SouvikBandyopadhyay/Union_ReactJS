@@ -1,9 +1,15 @@
-import Image from "../Image";
+import texavisionlogo from "../../Data/IMAGES/Texavision2K23Logo.png"
+import styles from "./Home.css"
+
 const Home = () => {
     return ( 
         <div>
-            <Image src="https://drive.google.com/file/d/1jtYYIWOHxfoD_jPNsnxzyfy1bzoCoJq4/view?usp=sharing"></Image>
-            <h1>GCETTS STUDENT'S UNION</h1>
+            <div className="main_logo">
+                <img src={texavisionlogo} alt="" />
+            </div>
+            <div className="main_title">
+            <h1>TEXAVISION 2K23</h1>
+            </div>
         </div>
      );
 }
