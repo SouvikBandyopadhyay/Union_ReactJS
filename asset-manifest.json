@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/Union_ReactJS/static/css/main.63f2fcde.css",
-    "main.js": "/Union_ReactJS/static/js/main.592c5d6c.js",
+    "main.css": "/Union_ReactJS/static/css/main.beab94e4.css",
+    "main.js": "/Union_ReactJS/static/js/main.6ac4dfa9.js",
     "static/js/787.e68c2660.chunk.js": "/Union_ReactJS/static/js/787.e68c2660.chunk.js",
+    "static/media/Texavision2K23Logo.png": "/Union_ReactJS/static/media/Texavision2K23Logo.666603495d0b8f923316.png",
+    "static/media/UnionLogo.png": "/Union_ReactJS/static/media/UnionLogo.8aaf8ea11b69fdbed24b.png",
+    "static/media/CollegeLogo.jpeg": "/Union_ReactJS/static/media/CollegeLogo.edafeed24b3251def154.jpeg",
     "index.html": "/Union_ReactJS/index.html",
-    "main.63f2fcde.css.map": "/Union_ReactJS/static/css/main.63f2fcde.css.map",
-    "main.592c5d6c.js.map": "/Union_ReactJS/static/js/main.592c5d6c.js.map",
+    "main.beab94e4.css.map": "/Union_ReactJS/static/css/main.beab94e4.css.map",
+    "main.6ac4dfa9.js.map": "/Union_ReactJS/static/js/main.6ac4dfa9.js.map",
     "787.e68c2660.chunk.js.map": "/Union_ReactJS/static/js/787.e68c2660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63f2fcde.css",
-    "static/js/main.592c5d6c.js"
+    "static/css/main.beab94e4.css",
+    "static/js/main.6ac4dfa9.js"
   ]
 }
