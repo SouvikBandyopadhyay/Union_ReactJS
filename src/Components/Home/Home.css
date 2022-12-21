@@ -3,7 +3,10 @@
     width: 200px;
     height: 200px;
 }
-
+.main_logo > img:hover{
+	width: 250px;
+	height: 250px;
+}
 
 .main_title {
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -15,7 +18,9 @@
 	justify-content: center;
 	height: 20vh;
 	letter-spacing: 1px;
-	line-height:2
+	line-height:2;
+}
+.main_title:hover{
 }
 
 .main_title > h1 {
@@ -29,5 +34,10 @@
     font-weight: 1000;
 	margin: 10px 0;
 	-webkit-text-stroke: 2px rgb(0, 0, 0);
+	/* box-shadow: 15px 15px 15px black; */
+	padding: 1rem;
 
+}
+.main_title > h1:hover {
+	font-size: 350%;
 }

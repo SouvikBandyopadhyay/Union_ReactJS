@@ -5,6 +5,13 @@
 .member_profile_img{
     width: 100px;
     height: 100px;
+    border: solid 5px transparent;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px black;
+
+}
+.member_profile_img:hover{
+    border-color: white;
 }
 .users{
     display: flex;
@@ -17,6 +24,11 @@
     background-color: rgba(0, 0, 0, 0.4);
     padding: 1rem;
     width: min-content;
+    box-shadow: 5px 5px 5px black;
+}
+.One_Profile:hover{
+    box-shadow: 15px 15px 15px black;
+
 }
 .One_Profile>p{
     width: max-content;
@@ -31,6 +43,7 @@
 }
 .phn_details{
     gap: 1rem;
+    padding: 1rem;
 }
 
 @media only screen and (max-width: 768px){

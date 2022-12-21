@@ -6,10 +6,13 @@
     padding: 2rem;
 }
 .about_body > div{
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.6);
     padding: 1.5rem;
-    width: 70%;
+    width: 80%;
     border: white solid 5px;
+}
+.about_body > div:hover{
+    box-shadow: 15px 15px 15px black;
 }
 @media only screen and (max-width: 768px){
     .about_body{
