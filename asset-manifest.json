@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Union_ReactJS/static/css/main.69c87034.css",
+    "main.css": "/Union_ReactJS/static/css/main.769be057.css",
     "main.js": "/Union_ReactJS/static/js/main.dde4c04f.js",
     "static/js/787.e68c2660.chunk.js": "/Union_ReactJS/static/js/787.e68c2660.chunk.js",
     "static/media/Namebg.gif": "/Union_ReactJS/static/media/Namebg.fe0aaa85b8893029ea79.gif",
@@ -14,12 +14,12 @@
     "static/media/Background.jpeg": "/Union_ReactJS/static/media/Background.55b06eb0d14a78ce9a8c.jpeg",
     "static/media/email_icon.png": "/Union_ReactJS/static/media/email_icon.816f1a7e24d2e1919c1a.png",
     "index.html": "/Union_ReactJS/index.html",
-    "main.69c87034.css.map": "/Union_ReactJS/static/css/main.69c87034.css.map",
+    "main.769be057.css.map": "/Union_ReactJS/static/css/main.769be057.css.map",
     "main.dde4c04f.js.map": "/Union_ReactJS/static/js/main.dde4c04f.js.map",
     "787.e68c2660.chunk.js.map": "/Union_ReactJS/static/js/787.e68c2660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c87034.css",
+    "static/css/main.769be057.css",
     "static/js/main.dde4c04f.js"
   ]
 }
