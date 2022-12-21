@@ -9,7 +9,7 @@ const ProfileList = () => {
 console.log(userData)
 
     return ( 
-        <div>
+        <div className="ProfileList">
             <h1>Union Members</h1>
             <div className="users">
                 {userData.map((user) => (

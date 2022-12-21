@@ -1,3 +1,7 @@
+.ProfileList{
+    padding: 1rem;
+}
+
 .member_profile_img{
     width: 100px;
     height: 100px;
@@ -10,11 +14,23 @@
     justify-content: space-evenly;
 }
 .One_Profile{
-    background-color: rgba(240, 244, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.4);
     padding: 1rem;
+    width: min-content;
+}
+.One_Profile>p{
+    width: max-content;
 }
 .member_name{
     font-weight: bold;
+    margin-bottom: 0rem;
+}
+.phn_icon{
+    width: 25%;
+    height: 25%;
+}
+.phn_details{
+    gap: 1rem;
 }
 
 @media only screen and (max-width: 768px){

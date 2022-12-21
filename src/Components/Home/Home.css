@@ -6,7 +6,7 @@
 
 
 .main_title {
-	font-family: "Cairo";
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-align: center;
 	color: #FFF;
 	display: flex;
@@ -19,13 +19,15 @@
 }
 
 .main_title > h1 {
-	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+	background-image: url("../../Data/IMAGES/Namebg.gif");
 	background-size: cover;
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
 	font-size: 300%;
-    font-weight: 900;
+    font-weight: 1000;
 	margin: 10px 0;
+	-webkit-text-stroke: 2px rgb(0, 0, 0);
+
 }

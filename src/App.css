@@ -22,7 +22,8 @@
   justify-content: space-between;
   font-size: calc(10px + 2vmin);
   color: white;
-  
+  background-image: url("./Data/IMAGES/Background.jpeg");
+  background-size: cover;
 }
 
 .App-link {
@@ -36,4 +37,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.flex_row{
+  display: flex;
+  flex-direction: row;
+}
+
+.flex_col{
+  display: flex;
+  flex-direction: column;
+}
+.center{
+  justify-content: center;
+  align-items: center;
+}
+.ProfileList, .Events, .About{
+  background-color: rgba(14, 212, 103, 0.4);
+  background: linear-gradient(75deg,rgba(255, 0, 0, 0.4),rgba(0, 0, 255, 0.4),rgba(0, 128, 0, 0.4));
+}
+.Home{
+  /* background-color: rgba(0, 0, 0, 0.454); */
 }

@@ -6,9 +6,9 @@ const Events = () => {
 
     var eventsData=data.Events;
     return ( 
-        <div>
+        <div className="Events">
             <h1>Events</h1>
-            <div className="Events">
+            <div className="EventsList">
                 {eventsData.map((dayevent,index) => (
                     <DayEvent dayevent={dayevent} index={index}/>
                 ))}

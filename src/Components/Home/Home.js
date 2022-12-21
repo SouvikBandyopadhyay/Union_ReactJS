@@ -3,7 +3,7 @@ import styles from "./Home.css"
 
 const Home = () => {
     return ( 
-        <div>
+        <div className="Home">
             <div className="main_logo">
                 <img src={texavisionlogo} alt="" />
             </div>
