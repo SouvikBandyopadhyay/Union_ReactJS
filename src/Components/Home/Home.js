@@ -8,14 +8,17 @@ const Home = () => {
                 <img src={texavisionlogo} alt="" />
             </div>
             <div className="edition">
-            <h3>2023 Edition</h3>
+                <h3>2023 Edition</h3>
             </div>
             <div className="main_title subtitle">
-            <h1>Annual Fest</h1>
+                <h1>Annual Fest</h1>
             </div>
+            <div className="divider"></div>
             <div className="main_title">
-            <h2>TEXAVISION 2K23</h2>
+                <h2>TEXAVISION 2K23</h2>
             </div>
+            <div className="divider"></div>
+
         </div>
      );
 }

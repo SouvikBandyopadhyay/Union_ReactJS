@@ -20,6 +20,11 @@
 	margin: 0px;
 	box-shadow: -1px -1px 25px black;
 }
+.divider{
+	height: 5px;
+	width: 100%;
+	background: linear-gradient(90deg,transparent,white,transparent);
+}
 
 .main_title {
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
