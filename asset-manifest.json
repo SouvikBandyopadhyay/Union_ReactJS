@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Union_ReactJS/static/css/main.1e9f54ba.css",
-    "main.js": "/Union_ReactJS/static/js/main.e240114a.js",
+    "main.css": "/Union_ReactJS/static/css/main.8019eef2.css",
+    "main.js": "/Union_ReactJS/static/js/main.47fd9852.js",
     "static/js/787.e68c2660.chunk.js": "/Union_ReactJS/static/js/787.e68c2660.chunk.js",
     "static/media/Namebg.gif": "/Union_ReactJS/static/media/Namebg.fe0aaa85b8893029ea79.gif",
     "static/media/Texavision2K23Logo.png": "/Union_ReactJS/static/media/Texavision2K23Logo.666603495d0b8f923316.png",
@@ -14,12 +14,12 @@
     "static/media/Background.jpeg": "/Union_ReactJS/static/media/Background.55b06eb0d14a78ce9a8c.jpeg",
     "static/media/email_icon.png": "/Union_ReactJS/static/media/email_icon.816f1a7e24d2e1919c1a.png",
     "index.html": "/Union_ReactJS/index.html",
-    "main.1e9f54ba.css.map": "/Union_ReactJS/static/css/main.1e9f54ba.css.map",
-    "main.e240114a.js.map": "/Union_ReactJS/static/js/main.e240114a.js.map",
+    "main.8019eef2.css.map": "/Union_ReactJS/static/css/main.8019eef2.css.map",
+    "main.47fd9852.js.map": "/Union_ReactJS/static/js/main.47fd9852.js.map",
     "787.e68c2660.chunk.js.map": "/Union_ReactJS/static/js/787.e68c2660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e9f54ba.css",
-    "static/js/main.e240114a.js"
+    "static/css/main.8019eef2.css",
+    "static/js/main.47fd9852.js"
   ]
 }
