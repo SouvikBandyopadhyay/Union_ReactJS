@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Union_ReactJS/static/css/main.fb060a78.css",
-    "main.js": "/Union_ReactJS/static/js/main.4b6e772d.js",
+    "main.css": "/Union_ReactJS/static/css/main.824f3e1a.css",
+    "main.js": "/Union_ReactJS/static/js/main.e240114a.js",
     "static/js/787.e68c2660.chunk.js": "/Union_ReactJS/static/js/787.e68c2660.chunk.js",
     "static/media/Namebg.gif": "/Union_ReactJS/static/media/Namebg.fe0aaa85b8893029ea79.gif",
     "static/media/Texavision2K23Logo.png": "/Union_ReactJS/static/media/Texavision2K23Logo.666603495d0b8f923316.png",
-    "static/media/Jahir.jpg": "/Union_ReactJS/static/media/Jahir.1ba17bbc7fb6554b0a82.jpg",
     "static/media/UnionLogo.png": "/Union_ReactJS/static/media/UnionLogo.8aaf8ea11b69fdbed24b.png",
+    "static/media/Jahir.jpg": "/Union_ReactJS/static/media/Jahir.51b1d64d00ad01043a59.jpg",
+    "static/media/Joydeep.jpg": "/Union_ReactJS/static/media/Joydeep.ad6b4f59f4b1d9bea64c.jpg",
     "static/media/CollegeLogo.png": "/Union_ReactJS/static/media/CollegeLogo.cf849145fa0d20cb2778.png",
-    "static/media/Joydeep.jpg": "/Union_ReactJS/static/media/Joydeep.7ebb600d435dc47ba322.jpg",
     "static/media/Sahil.jpg": "/Union_ReactJS/static/media/Sahil.93c2b2c2cc389196495b.jpg",
     "static/media/Ali.jpg": "/Union_ReactJS/static/media/Ali.fbb33998270521b752b8.jpg",
     "static/media/Background.jpeg": "/Union_ReactJS/static/media/Background.55b06eb0d14a78ce9a8c.jpeg",
     "static/media/email_icon.png": "/Union_ReactJS/static/media/email_icon.816f1a7e24d2e1919c1a.png",
     "index.html": "/Union_ReactJS/index.html",
-    "main.fb060a78.css.map": "/Union_ReactJS/static/css/main.fb060a78.css.map",
-    "main.4b6e772d.js.map": "/Union_ReactJS/static/js/main.4b6e772d.js.map",
+    "main.824f3e1a.css.map": "/Union_ReactJS/static/css/main.824f3e1a.css.map",
+    "main.e240114a.js.map": "/Union_ReactJS/static/js/main.e240114a.js.map",
     "787.e68c2660.chunk.js.map": "/Union_ReactJS/static/js/787.e68c2660.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb060a78.css",
-    "static/js/main.4b6e772d.js"
+    "static/css/main.824f3e1a.css",
+    "static/js/main.e240114a.js"
   ]
 }
