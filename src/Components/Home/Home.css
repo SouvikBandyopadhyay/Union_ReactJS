@@ -8,6 +8,18 @@
 	height: 250px;
 }
 
+.edition{
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	color: rgba(0, 0, 0, 0.7);
+}
+.edition>h3{
+	padding: 0.2rem;
+	margin: 0px;
+	box-shadow: -1px -1px 25px black;
+}
+
 .main_title {
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-align: center;
@@ -16,14 +28,15 @@
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	height: 20vh;
+	height: 15vh;
 	letter-spacing: 1px;
 	line-height:2;
 }
-.main_title:hover{
+.subtitle{
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.main_title > h1 {
+.main_title > h1, .main_title > h2 {
 	background-image: url("../../Data/IMAGES/Namebg.gif");
 	background-size: cover;
 	color: transparent;
@@ -38,6 +51,6 @@
 	padding: 1rem;
 
 }
-.main_title > h1:hover {
+.main_title > h2:hover {
 	font-size: 350%;
 }
